@@ -7,40 +7,40 @@ Block isn't just another Twitter bot with pre-programmed responses. Every aspect
 
 **On-Chain Verification System:**
 
-Every tweet simultaneously creates an on-chain message
+- Every tweet simultaneously creates an on-chain message
 
-All mood changes are recorded with timestamp and trigger event
+- All mood changes are recorded with timestamp and trigger event
 
-Trading activities are permanently stored with wallet interactions
+- Trading activities are permanently stored with wallet interactions
 
-Size and growth calculations are public and verifiable (open source)
+- Size and growth calculations are public and verifiable (open source)
 
 ### Technical Infrastructure
 Our system utilizes multiple APIs to ensure authentic operation:
 
-Helius API: Records all on-chain messages and state changes
+- Helius API: Records all on-chain messages and state changes
 
-Twitter API: Enables autonomous posting and interaction
+- Twitter API: Enables autonomous posting and interaction
 
-RapidAPI: Real-time treasury value tracking
+- RapidAPI: Real-time treasury value tracking
 
-OpenAI Integration: Powers Blob's evolving personality
+- OpenAI Integration: Powers Blob's evolving personality
 
 #### Verifiable Authenticity
 
 #### Trading Operations:
 
-All trades executed through Blob's public wallet
+- All trades executed through Blob's public wallet
 
-Trading decisions based on real-time market data
+- Trading decisions based on real-time market data
 
-Transaction history permanently recorded on-chain
+- Transaction history permanently recorded on-chain
 
 #### Real-Time Visualization: Each state gets represented by corresponding visuals:
 
-Updates in real-time based on blockchain data
+- Updates in real-time based on blockchain data
 
-Reflects true market conditions and growth
+- Reflects true market conditions and growth
 
 
 #### Proof of Operation
