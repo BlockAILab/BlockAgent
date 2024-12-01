@@ -1,5 +1,6 @@
 # BlockAgent
 Block AI Agent Protocol
+![Block Protocol](https://x.com/BlockAIAgent/photo)
 # About
 
 ## Real AI, Real Blockchain Integration
