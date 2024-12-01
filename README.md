@@ -15,12 +15,6 @@ Trading activities are permanently stored with wallet interactions
 
 Size and growth calculations are public and verifiable (open source)
 
-Visualizer: https://github.com/blobana-ai/visualizer-web.git
-
-Blobana ai agent: https://github.com/blobana-ai/api.git
-
-Onchain memo program: https://github.com/blobana-ai/solana-memo-program.git
-
 Technical Infrastructure
 Our system utilizes multiple APIs to ensure authentic operation:
 
