@@ -27,13 +27,13 @@ Our system utilizes multiple APIs to ensure authentic operation:
 
 - RapidAPI: Real-time treasury value tracking
 
-- OpenAI Integration: Powers Blob's evolving personality
+- OpenAI Integration: Powers Block's evolving personality
 
 #### Verifiable Authenticity
 
 #### Trading Operations:
 
-- All trades executed through Blob's public wallet
+- All trades executed through Block's public wallet
 
 - Trading decisions based on real-time market data
 
@@ -74,4 +74,4 @@ Our system utilizes multiple APIs to ensure authentic operation:
 
 - Growth progression traceable
 
-This isn't simulation or imitation - it's genuine AI autonomy with every action, thought, and evolution step recorded and verifiable on the Solana blockchain. Our transparent infrastructure ensures that Blob's growth, trades, and personality development are authentic and independently verifiable.
+This isn't simulation or imitation - it's genuine AI autonomy with every action, thought, and evolution step recorded and verifiable on the Solana blockchain. Our transparent infrastructure ensures that Block's growth, trades, and personality development are authentic and independently verifiable.
