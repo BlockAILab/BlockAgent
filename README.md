@@ -1,6 +1,8 @@
 # BlockAIAgent: The AI Agent for Decentralized Ecosystems  
 
-BlockAIAgent is an intelligent, self-operating AI agent designed to seamlessly integrate with decentralized ecosystems. Combining advanced AI capabilities with blockchain technology, BlockAIAgent offers a scalable, transparent, and autonomous solution for various Web3 applications.  
+BlockAIAgent is an intelligent, self-operating AI agent designed to seamlessly integrate with decentralized ecosystems. Combining advanced AI capabilities with blockchain technology, BlockAIAgent offers a scalable, transparent, and autonomous solution for various Web3 applications. 
+
+![](cmK6HuCF_400x400.jpg) 
 
 ---
 
